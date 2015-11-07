@@ -13,7 +13,7 @@ Thinking this will eventually have various input and output plugins. Here's what
 * output: user-defined index page
 * publish: post to S3. *Selectively re-upload pages, assets, etc.*
 * *output: use (https://github.com/aFarkas/lazysizes)*
-
+* *output:* check this out: http://photoswipe.com/
 
 
 ## Manifesto
